@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: INFULENCER GIVEAWAY
-    subtitle: Section subtitle here
+    subtitle: EARN BY PRODUCT
     items:
       - type: Card
         title: INSTAGRAME CREATOR
