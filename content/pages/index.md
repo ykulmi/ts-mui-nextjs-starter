@@ -50,7 +50,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/download.png
+          url: /images/images.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
