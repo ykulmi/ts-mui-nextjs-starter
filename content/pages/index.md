@@ -34,7 +34,8 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/Instagram_logo.png
+          url: >-
+            /images/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.avif
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
