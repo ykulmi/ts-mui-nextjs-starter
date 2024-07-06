@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: INSTAGRAME CREATOR
         image:
           type: Image
           url: >-
