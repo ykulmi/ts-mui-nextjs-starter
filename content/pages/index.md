@@ -62,7 +62,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: YOUTUBE CREATOR
         image:
           type: Image
           url: /images/youtube-logo-hd-8.png
