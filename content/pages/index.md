@@ -27,7 +27,7 @@ sections:
       url: /images/images.jpeg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: INFULENCER GIVEAWAY
     subtitle: Section subtitle here
     items:
       - type: Card
